@@ -27,3 +27,10 @@ To run locally:
 ```bash
 docker build -t devops-project  .
 docker run -p 8080:80 devops-project
+
+
+----
+
+Live Demo
+
+[View Live Site](https://devops-cicd-project-entg.onrender.com)
